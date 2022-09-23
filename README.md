@@ -3,6 +3,12 @@
 # Deliverable 1: Linear Regression to Predict MPG 
 ## Linear Regression to Predict MPG
 Based on the output from the linear regression and the summary of the model (as seen in the pictures), we can address the following questions:
+https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Linear%20Regression.png?raw=true
+
+
+https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true
+
+https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true![image](https://user-images.githubusercontent.com/107222716/191885680-10b6bb6b-8ba3-4b3b-b028-84c28bf812cd.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
