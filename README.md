@@ -32,3 +32,17 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 * Below is the three t-tests that compare each manufacturing lot against mean PSI of the population 
 !['Visual%20Data/t.test()%20functions%20and%20subset()s](https://user-images.githubusercontent.com/107222716/191886571-37f3f81f-a32f-42f6-a68a-f9335bd7539d.png)
+
+# Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+## Study Design: MechaCar vs Competition
+
+* Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+* For this statistical study I address the following questions:
+  * What metric or metrics are you going to test?
+  
+  * What is the null hypothesis or alternative hypothesis?
+  
+  * What statistical test would you use to test the hypothesis? And why?
+  
+  * What data is needed to run the statistical test?
