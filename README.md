@@ -3,16 +3,10 @@
 # Deliverable 1: Linear Regression to Predict MPG 
 ## Linear Regression to Predict MPG
 Based on the output from the linear regression and the summary of the model (as seen in the pictures), we can address the following questions:
-https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Linear%20Regression.png?raw=true
-
 
 !['Visual%20Data/Linear%20Regression](https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Linear%20Regression.png?raw=true)
 
-https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true![image]
-
-(https://user-images.githubusercontent.com/107222716/191885680-10b6bb6b-8ba3-4b3b-b028-84c28bf812cd.png)
-
-!['datatypes%20of%20your%20columns](https://github.com/cbrito3/bikesharing/blob/main/Visualization/datatypes%20of%20your%20columns.png)
+!['Visual%20Data/Summary%20Statistics](https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -24,8 +18,10 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 ## Summary Statistics on Suspension Coils
 
 * Below is the total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots 
+!['Visual%20Data/Total%20Summary](https://user-images.githubusercontent.com/107222716/191886267-2d76f2fb-4752-4fbc-8f83-fa9293bb160e.png)
 
 * Below is a lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot 
+!['Visual%20Data/Lot%20Summary](https://user-images.githubusercontent.com/107222716/191886364-45d37042-7c1d-4e08-9bbe-9c2e57a290fc.png)
 
 
 # Deliverable 3: T-Tests on Suspension Coils
