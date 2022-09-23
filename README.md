@@ -28,5 +28,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 ## T-Tests on Suspension Coils
 
 * Below is the t-test that compares all manufacturing lots against mean PSI of the population
+!['Visual%20Data/t.test()%20function](https://user-images.githubusercontent.com/107222716/191886528-4ffc0fa6-713a-4ab7-aa93-806d0c065a82.png)
 
 * Below is the three t-tests that compare each manufacturing lot against mean PSI of the population 
+!['Visual%20Data/t.test()%20functions%20and%20subset()s](https://user-images.githubusercontent.com/107222716/191886571-37f3f81f-a32f-42f6-a68a-f9335bd7539d.png)
