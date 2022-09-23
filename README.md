@@ -6,9 +6,10 @@ Based on the output from the linear regression and the summary of the model (as 
 https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Linear%20Regression.png?raw=true
 
 
-https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true
 
-https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true![image](https://user-images.githubusercontent.com/107222716/191885680-10b6bb6b-8ba3-4b3b-b028-84c28bf812cd.png)
+https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true![image]
+
+(https://user-images.githubusercontent.com/107222716/191885680-10b6bb6b-8ba3-4b3b-b028-84c28bf812cd.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
