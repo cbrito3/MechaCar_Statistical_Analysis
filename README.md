@@ -13,14 +13,14 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 # Deliverable 2: Create Visualizations for the Trip Analysis
 ## Summary Statistics on Suspension Coils
 
-## Below is the total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots 
+* Below is the total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots 
 
-## Below is a lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot 
+* Below is a lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot 
 
 
 # Deliverable 3: T-Tests on Suspension Coils
 ## T-Tests on Suspension Coils
 
-# Below is the t-test that compares all manufacturing lots against mean PSI of the population
+* Below is the t-test that compares all manufacturing lots against mean PSI of the population
 
-# Below is the three t-tests that compare each manufacturing lot against mean PSI of the population 
+* Below is the three t-tests that compare each manufacturing lot against mean PSI of the population 
