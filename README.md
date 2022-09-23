@@ -21,6 +21,9 @@ In the summary output, each Pr(>|t|) value represents the probability that each 
 
   * Is the slope of the linear model considered to be zero? Why or why not?
 
+Based on the results from the linear regression model, the y intercept (Intercept) and slope coefficients. coefficients the slope is not zero. This is because the slope coefficients are non zero variables.
+
+
   * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
  
 
