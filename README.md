@@ -27,7 +27,7 @@ Based on the results from the linear regression model, the y intercept (Intercep
   * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
  
 
- This linear model predict mpg of MechaCar prototypes effectively because the r-squared value is 0.714 which means that it has a strong correlation for the dataset. 
+ This linear model predict mpg of MechaCar prototypes effectively because the r-squared value is 0.715 which means that it has a strong correlation for the dataset. 
  
 # Deliverable 2: Create Visualizations for the Trip Analysis
 ## Summary Statistics on Suspension Coils
