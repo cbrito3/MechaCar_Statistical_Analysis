@@ -79,3 +79,4 @@ First I created a total_summary dataframe as in the first graph and then a lot_s
   4.  What data is needed to run the statistical test?
   
   * To run the statistical test we would need to run a random sample for MechaCar and their competition using RStudio using the variables we selected, safety rating, highway fuel efficiency, horse power, and maintenance cots.
+  
