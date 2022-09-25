@@ -14,7 +14,7 @@ Summary of the model
 
 * Based on the data above, we can address the following questions:
 
-  1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+ 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, the vehicle length and ground clearance variables represent non-random amounts of variance as applied to the mpg value (the intercept). 
 
