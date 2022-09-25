@@ -14,20 +14,21 @@ Summary of the model
 
 * Based on the data above, we can address the following questions:
 
-  * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+  1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results, the vehicle length and ground clearance variables represent non-random amounts of variance as applied to the mpg value (the intercept). 
 
 
-  * Is the slope of the linear model considered to be zero? Why or why not?
+  2. Is the slope of the linear model considered to be zero? Why or why not?
 
 Based on the results from the linear regression model, the y intercept (Intercept) and slope coefficients. coefficients the slope is not zero. This is because the slope coefficients are non zero variables.
 
 
-  * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
  
 
  This linear model predict mpg of MechaCar prototypes effectively because the r-squared value is 0.715 which means that it has a strong correlation for the dataset. 
+ 
  
 # Deliverable 2: Create Visualizations for the Trip Analysis
 ## Summary Statistics on Suspension Coils
