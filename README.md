@@ -61,18 +61,20 @@ First I created a total_summary dataframe as in the first graph and then a lot_s
 * Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 * For this statistical study I address the following questions:
-  * What metric or metrics are you going to test?
   
-  For this study design that can quantify how the MechaCar performs against the competition and that would be of interest to a consumer, the metrics I would use are: safety rating, highway fuel efficiency, horse power, and maintenance cots. 
+  1. What metric or metrics are you going to test?
   
-  * What is the null hypothesis or alternative hypothesis?
+    * the metrics I would use for this study design that can quantify how the MechaCar performs against the competition and that would be of interest to a consumer qouls be: safety rating, highway fuel efficiency, horse power, and maintenance cots. 
+  
+  2. What is the null hypothesis or alternative hypothesis?
 
    * The null hypothesis is would be that mean for the safety rating is zero
    * The alternative hypothesis would be that the mean for the safety rating is not zero.
 
-  * What statistical test would you use to test the hypothesis? And why?
+  3. What statistical test would you use to test the hypothesis? And why?
   
    * The statistical test that I would use to test the hypothesis would be a multiple linear regression model to get the the statistical summary for Mechacar and their competition, this would allow me to compary the results for stafety rating. 
   
-  * What data is needed to run the statistical test?
+  4.  What data is needed to run the statistical test?
+  
   * To run the statistical test we would need to run a random sample for MechaCar and their competition using RStudio using the variables we selected, safety rating, highway fuel efficiency, horse power, and maintenance cots.
