@@ -32,11 +32,18 @@ Based on the results from the linear regression model, the y intercept (Intercep
 # Deliverable 2: Create Visualizations for the Trip Analysis
 ## Summary Statistics on Suspension Coils
 
-* Below is the total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots 
+The MechaCar dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots.
+First I created a total_summary dataframe as in the first graph and then a lot_summary dataframe as seen in the second graph.
+
+* Below is the total_summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots 
 !['Visual%20Data/Total%20Summary](https://user-images.githubusercontent.com/107222716/191886267-2d76f2fb-4752-4fbc-8f83-fa9293bb160e.png)
 
-* Below is a lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot 
+* Below is a lot_summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot 
 !['Visual%20Data/Lot%20Summary](https://user-images.githubusercontent.com/107222716/191886364-45d37042-7c1d-4e08-9bbe-9c2e57a290fc.png)
+
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+  * In the first result from the total_summary gives us a variance of approximately 62.29 PSI, this does meet the design specification of not exceeding 100  pounds per square inch. When looking at the lot_summary results, the variances for Lot1 and Lot2, approximately 0.98 PSI and 7.47 PSI respectivelly, meet the design specification of not exceeding 100  pounds per square inch; however, Lot3 at apprimately 170.29 PSI does not. 
 
 
 # Deliverable 3: T-Tests on Suspension Coils
