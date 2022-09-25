@@ -58,7 +58,7 @@ First I created a total_summary dataframe as in the first graph and then a lot_s
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 ## Study Design: MechaCar vs Competition
 
-* Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+* Below are 4 questions that can answer the statistical study that can quantify how the MechaCar performs against the competition. In this study design, I think about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 * For this statistical study I address the following questions:
   
