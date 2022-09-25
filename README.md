@@ -43,7 +43,7 @@ First I created a total_summary dataframe as in the first graph and then a lot_s
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-  * In the first result from the total_summary gives us a variance of approximately 62.29 PSI, this does meet the design specification of not exceeding 100  pounds per square inch. When looking at the lot_summary results, the variances for Lot1 and Lot2, approximately 0.98 PSI and 7.47 PSI respectivelly, meet the design specification of not exceeding 100  pounds per square inch; however, Lot3 at apprimately 170.29 PSI does not. 
+  * In the first result from the total_summary gives us a variance of approximately 62.29 PSI, this does meet the design specification of not exceeding 100  pounds per square inch. When looking at the lot_summary results, the variances for Lot1 and Lot2, approximately 0.98 PSI and 7.47 PSI respectively, meet the design specification of not exceeding 100  pounds per square inch; however, Lot3 at apprimately 170.29 PSI does not. 
 
 
 # Deliverable 3: T-Tests on Suspension Coils
@@ -63,8 +63,16 @@ First I created a total_summary dataframe as in the first graph and then a lot_s
 * For this statistical study I address the following questions:
   * What metric or metrics are you going to test?
   
-  * What is the null hypothesis or alternative hypothesis?
+  For this study design that can quantify how the MechaCar performs against the competition and that would be of interest to a consumer, the metrics I would use are: safety rating, highway fuel efficiency, horse power, and maintenance cots. 
   
+  * What is the null hypothesis or alternative hypothesis?
+
+   * The null hypothesis is would be that mean for the safety rating is zero
+   * The alternative hypothesis would be that the mean for the safety rating is not zero.
+
   * What statistical test would you use to test the hypothesis? And why?
   
+   * The statistical test that I would use to test the hypothesis would be a multiple linear regression model to get the the statistical summary for Mechacar and their competition, this would allow me to compary the results for stafety rating. 
+  
   * What data is needed to run the statistical test?
+  * To run the statistical test we would need to run a random sample for MechaCar and their competition using RStudio using the variables we selected, safety rating, highway fuel efficiency, horse power, and maintenance cots.
