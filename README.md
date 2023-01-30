@@ -1,5 +1,15 @@
 # MechaCar_Statistical_Analysis
 
+# Background
+AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has asked to review the production data for insights that may help the manufacturing team. 
+
+* Deliverables:
+Part 1: Linear Regression to Predict MPG
+Part 2: Summary Statistics on Suspension Coils
+Part 3: T-Test on Suspension Coils
+Part 4: Design a Study Comparing the MechaCar to the Competition
+
+
 # Deliverable 1: Linear Regression to Predict MPG 
 ## Linear Regression to Predict MPG
 
