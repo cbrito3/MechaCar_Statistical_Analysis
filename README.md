@@ -20,7 +20,7 @@ The output from the linear regression indicates the following coefficients based
 
 !['Visual%20Data/Linear%20Regression](https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Linear%20Regression.png?raw=true)
 
-Summary of the model
+## Summary of the model
 
 !['Visual%20Data/Summary%20Statistics](https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Summary%20Statistics.png?raw=true)
 
