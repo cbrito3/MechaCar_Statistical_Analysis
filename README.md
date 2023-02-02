@@ -16,7 +16,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 # Deliverable 1: Linear Regression to Predict MPG 
 ## Linear Regression to Predict MPG
 
-Output from the linear regression 
+The output from the linear regression indicates the following coefficients based on the variables we selected:
 
 !['Visual%20Data/Linear%20Regression](https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Linear%20Regression.png?raw=true)
 
